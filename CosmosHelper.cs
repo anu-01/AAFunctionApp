@@ -11,7 +11,7 @@ namespace AAFunctionApp
     {
         private static readonly string EndpointUri = "https://ratingsdb.documents.azure.com:443/";
         // The primary key for the Azure Cosmos account.
-        private static readonly string PrimaryKey = "hJoimnN2tSwcFIIQOgUpFN2Ttu7G87EpMye7kluJcIpW3YaiuliBJAroNLCp6EM1ZHP5Nz4ECmBIVA6spCQNIQ==";
+        private static readonly string PrimaryKey = "";
 
         // The Cosmos client instance
         private CosmosClient cosmosClient;
